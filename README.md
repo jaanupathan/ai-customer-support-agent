@@ -1,4 +1,8 @@
-# AppleSupport AI Customer Support Agent
+<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/26d1dc83-0ac4-4849-a1bd-1e3ea82463e3" />
+
+
+
+# AppleSupport AI Customer Support Agent  
 
 An interview-oriented customer-support prototype that combines intent classification, semantic retrieval, and locally generated support replies. It uses reconstructed AppleSupport conversations from the Twitter Customer Support dataset (TWCS) as historical grounding.
 
